@@ -1,0 +1,2 @@
+access of User - change to enum
+PostController - check if user is authorized for those methods - DELETE, UPDATE
